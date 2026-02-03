@@ -1,20 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
-package ex11;
+package media-notas-resultado;
 
 import java.util.Scanner;
 
-/**
- *
- * @author denis
- */
 public class Ex11 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         /*Escreva um programa que leia o nome de 10 alunos (vetor). Para cada aluno devem ser registradas 3 notas (matriz). 
         Calcular a média das notas de cada aluno e armazenar em um vetor.
@@ -95,3 +84,4 @@ public class Ex11 {
         } // fim col
     }//fim lin 
 }
+
