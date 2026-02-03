@@ -1,20 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
 package ex4;
 
 import java.util.Scanner;
 
-/**
- *
- * @author denis
- */
 public class Ex4 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         /*Escreva um programa que leia dois valores reais e apresente a diferença do maior para o menor. 
          Um método chamado diferença deverá ser impelementado para realizar os cáculos e exibir o resultado.
@@ -59,3 +48,4 @@ public class Ex4 {
         return r;
     }
 }
+
