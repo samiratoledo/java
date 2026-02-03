@@ -1,4 +1,4 @@
-package ex4;
+package diferencas;
 
 import java.util.Scanner;
 
@@ -48,4 +48,5 @@ public class Ex4 {
         return r;
     }
 }
+
 
