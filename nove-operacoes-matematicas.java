@@ -1,22 +1,11 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
-package ex33;
+package nove-operacoes-matematicas;
 
 //importacao dos pacotes de entrada de dados
 import java.util.Scanner;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author denis
- */
 public class Ex33 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
 
         /*Exercício 4: Escreva um programa para calcular cada uma das operações matemática. Crie um método
@@ -272,3 +261,4 @@ public class Ex33 {
     } //fim raiz
 
 }
+
