@@ -1,20 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
-package ex22;
+package calculo-hipotenusa;
 
 import java.util.Scanner;
 
-/**
- *
- * @author denis
- */
 public class Ex22 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         /*Escreva um programa que calcule e retorne o valor da hipotenusa através do método hipotenusa. 
         O método deverá receber o valor da base e da altura de um triângulo. C = √(a² + b²*/
@@ -49,3 +38,4 @@ public class Ex22 {
     }
 
 }
+
